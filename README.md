@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Can Sarı</h1>
 <h3 align="center">A computer engineering student from Türkiye</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **React Native**
 
 - 📫 How to reach me **7ozzy35@gmail.com**
 
