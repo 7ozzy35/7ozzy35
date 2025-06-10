@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan Can Sarı</h1>
-<h3 align="center">A computer engineering student from Türkiye</h3>
+<h3 align="center">A computer engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **C# and Mobile App (Kotlin/React Native**
 
 - 📫 How to reach me **7ozzy35@gmail.com**
 
